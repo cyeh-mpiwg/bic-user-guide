@@ -4,7 +4,7 @@ Q: When I download search results data, the Chinese characters are garbled in th
 
 A: There are various ways: Chinese should appear correctly when imported into Google Sheets. Importing the data into Excel may require specifying Unicode (UTF-8) under the “File Origin” dropdown menu in the “Text Import Wizard” and then switching the delimiter to “Commas.” See the figures below:
 
-![](../images/2Y63yGx.jpeg)
+![](images/2Y63yGx.jpeg)
 
 Q: Can I download all of the data? 
 
