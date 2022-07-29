@@ -3,7 +3,7 @@
 Buttons click on and off and turn blue when activated. Hovering over a button makes a box appear that describes its function. The buttons are described below in alphabetical order. Use this list to find the button name then scroll down for an explanation of the button’s function:
 
 ## 1. Names.
-![](../images/pDFJhBH.png)
+![](images/pDFJhBH.png)
 
 ## 2. Explanations
 
